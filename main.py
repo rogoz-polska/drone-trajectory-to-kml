@@ -4,7 +4,7 @@ import utm
 
 utm_x,utm_y,zone,letter = utm.from_latlon(52.402364, 16.948808)
 
-utm_z=68
+utm_z=0
 x =[]
 y=[]
 z=[]
@@ -34,6 +34,8 @@ ls = kml.newlinestring(name="Drone path")
 
 for i in range (len(x)):
   ls.coords.addcoordinates([(y_wgs84[i],x_wgs84[i],z_wgs84[i])])
+ls.altitudemode = simplekml.AltitudeMode.relativetoground
+
 
 kml.save("trace_of_drone.kml")
 
