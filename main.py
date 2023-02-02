@@ -104,7 +104,7 @@ a +=f"""	<!-- this is the camera view  -->
 			<longitude>{wgs84[0][1][0] - 0.00066847352015}</longitude>
 			<latitude>{wgs84[0][0][0] - 0.00066847352015}</latitude>
 			<altitude>0</altitude>
-			<heading>-10.36466847352015</heading>
+			<heading>0.36466847352015</heading>
 			<tilt>70.96541540083902</tilt>
 			<range>200.432628192288</range>
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>

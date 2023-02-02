@@ -4,102 +4,102 @@
 	<name> Line Animation Sample</name>  
 	<open>1</open><Style id="line-style0">
       <LineStyle>
-        <color>ffa2b21f</color>  	<!-- this is the color of your path -->   
+        <color>ff40a59e</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style1">
       <LineStyle>
-        <color>ff892869</color>  	<!-- this is the color of your path -->   
+        <color>ffceaaad</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style2">
       <LineStyle>
-        <color>ffcd39c5</color>  	<!-- this is the color of your path -->   
+        <color>ff2ea886</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style3">
       <LineStyle>
-        <color>ffa0b545</color>  	<!-- this is the color of your path -->   
+        <color>ff987239</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style4">
       <LineStyle>
-        <color>ff769718</color>  	<!-- this is the color of your path -->   
+        <color>ff275a1e</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style5">
       <LineStyle>
-        <color>ff8591d4</color>  	<!-- this is the color of your path -->   
+        <color>fffafed2</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style6">
       <LineStyle>
-        <color>ff8c5d02</color>  	<!-- this is the color of your path -->   
+        <color>ff5e3807</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style7">
       <LineStyle>
-        <color>ff9bfc57</color>  	<!-- this is the color of your path -->   
+        <color>ffbe3bcd</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style8">
       <LineStyle>
-        <color>ff3362d6</color>  	<!-- this is the color of your path -->   
+        <color>ff84fcd0</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style9">
       <LineStyle>
-        <color>ff9990ee</color>  	<!-- this is the color of your path -->   
+        <color>ff203762</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style10">
       <LineStyle>
-        <color>ff0b5fb5</color>  	<!-- this is the color of your path -->   
+        <color>ffeec8a3</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style11">
       <LineStyle>
-        <color>ff184f2f</color>  	<!-- this is the color of your path -->   
+        <color>ff404365</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style12">
       <LineStyle>
-        <color>ff347f35</color>  	<!-- this is the color of your path -->   
+        <color>ffddb2d5</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style13">
       <LineStyle>
-        <color>ff0b381c</color>  	<!-- this is the color of your path -->   
+        <color>ff597859</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style14">
       <LineStyle>
-        <color>ff349889</color>  	<!-- this is the color of your path -->   
+        <color>ff47588b</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style15">
       <LineStyle>
-        <color>ff09cc8f</color>  	<!-- this is the color of your path -->   
+        <color>ff64b0b3</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style16">
       <LineStyle>
-        <color>ff116dbe</color>  	<!-- this is the color of your path -->   
+        <color>ffc89377</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style17">
       <LineStyle>
-        <color>ffec6bef</color>  	<!-- this is the color of your path -->   
+        <color>ff085a94</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style18">
       <LineStyle>
-        <color>ff70832d</color>  	<!-- this is the color of your path -->   
+        <color>ff394831</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style19">
       <LineStyle>
-        <color>ffffa280</color>  	<!-- this is the color of your path -->   
+        <color>ff931971</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>		<!-- this is the camera view  -->	
@@ -108,7 +108,7 @@
 			<longitude>16.948253663752922</longitude>
 			<latitude>52.40178356928168</latitude>
 			<altitude>0</altitude>
-			<heading>-10.36466847352015</heading>
+			<heading>0.36466847352015</heading>
 			<tilt>70.96541540083902</tilt>
 			<range>200.432628192288</range>
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
