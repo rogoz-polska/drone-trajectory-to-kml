@@ -116,30 +116,6 @@ a +=f"""	<!-- this is the camera view  -->
 
          <gx:Wait> <gx:duration>0.01</gx:duration></gx:Wait>"""
 
-# if x_wgs84>x1_wgs84:
-#   k = len(x_wgs84)
-# else:
-#   k = len(x1_wgs84)
-
-# for c in range(k):
-#   a += f"""
-#   		<gx:AnimatedUpdate>
-# 			<Update>"""
-#   print(c)
-#   print(len(x_wgs84))
-#   print(len(x1_wgs84))
-#   # if c < len(x_wgs84):
-#   a += f'<Change><Placemark targetId="{c}"><visibility>1</visibility></Placemark></Change>'
-#   # if c < len(x1_wgs84):
-#     # print("h")
-#   a += f'<Change><Placemark targetId="v{c}"><visibility>1</visibility></Placemark></Change>'
-  
-#   a += f"""</Update>
-# 		</gx:AnimatedUpdate>		
-		
-# <gx:Wait><gx:duration>1</gx:duration></gx:Wait>"""
-
-
 
 g = [len(wgs84[p][0]) for p in range(len(wgs84))]
 print(g)
@@ -168,30 +144,6 @@ a += f"""	</gx:Playlist>
 		</Style>"""
 
 
-# for i in range(len(x_wgs84)-1):
-#   a += f"""<Placemark id=\"{i}\">
-# 			<name>1</name><visibility>0</visibility>
-# 			<styleUrl>#line-style</styleUrl>
-# 			<LineString>
-# 				<tessellate>1</tessellate>
-#         <altitudeMode>relativeToGround</altitudeMode>
-# 				<coordinates>
-# 					{y_wgs84[i]},{x_wgs84[i]},{z_wgs84[i]} {y_wgs84[i+1]},{x_wgs84[i+1]},{z_wgs84[i+1]}
-# 				</coordinates>
-# 			</LineString>
-# 	</Placemark>"""
-# for j in range(len(x1_wgs84)-1):
-#   a += f"""<Placemark id=\"v{j}\">
-# 			<name>1</name><visibility>0</visibility>
-# 			<styleUrl>#line-style1</styleUrl>
-# 			<LineString>
-# 				<tessellate>1</tessellate>
-#         <altitudeMode>relativeToGround</altitudeMode>
-# 				<coordinates>
-# 					{y1_wgs84[j]},{x1_wgs84[j]},{z1_wgs84[j]} {y1_wgs84[j+1]},{x1_wgs84[j+1]},{z1_wgs84[j+1]}
-# 				</coordinates>
-# 			</LineString>
-# 	</Placemark>"""
 for u in range(len(wgs84)):
   for i in range(len(wgs84[u][0])-3):
     a += f"""<Placemark id=\"{u}v{i}\">
@@ -216,15 +168,5 @@ f = open("demofile3.kml", "w")
 f.write(a)
 f.close()
 # print(a)
-
-# kml = simplekml.Kml()
-# ls = kml.newlinestring(name="Drone path")
-
-# for i in range (len(x)):
-#   ls.coords.addcoordinates([(y_wgs84[i],x_wgs84[i],z_wgs84[i])])
-# ls.altitudemode = simplekml.AltitudeMode.relativetoground
-
-
-# kml.save("trace_of_drone.kml")
 
 
