@@ -4,102 +4,102 @@
 	<name> Line Animation Sample</name>  
 	<open>1</open><Style id="line-style0">
       <LineStyle>
-        <color>ffa06bea</color>  	<!-- this is the color of your path -->   
+        <color>ff28ffbd</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style1">
       <LineStyle>
-        <color>ffd476f5</color>  	<!-- this is the color of your path -->   
+        <color>ff9d1c6c</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style2">
       <LineStyle>
-        <color>ffe628b1</color>  	<!-- this is the color of your path -->   
+        <color>ff479277</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style3">
       <LineStyle>
-        <color>ffda30ff</color>  	<!-- this is the color of your path -->   
+        <color>ffc3de86</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style4">
       <LineStyle>
-        <color>ff572ca6</color>  	<!-- this is the color of your path -->   
+        <color>ff275d74</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style5">
       <LineStyle>
-        <color>ff40d05d</color>  	<!-- this is the color of your path -->   
+        <color>ff09ffd3</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style6">
       <LineStyle>
-        <color>fff351fc</color>  	<!-- this is the color of your path -->   
+        <color>ff3e78fd</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style7">
       <LineStyle>
-        <color>ff1a9118</color>  	<!-- this is the color of your path -->   
+        <color>ff38d6d4</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style8">
       <LineStyle>
-        <color>fff8eec3</color>  	<!-- this is the color of your path -->   
+        <color>ff9d20ad</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style9">
       <LineStyle>
-        <color>ff4eca53</color>  	<!-- this is the color of your path -->   
+        <color>ff535db5</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style10">
       <LineStyle>
-        <color>fff36383</color>  	<!-- this is the color of your path -->   
+        <color>ff85f3be</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style11">
       <LineStyle>
-        <color>ffce0b24</color>  	<!-- this is the color of your path -->   
+        <color>ff5a5ccd</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style12">
       <LineStyle>
-        <color>ff2b291e</color>  	<!-- this is the color of your path -->   
+        <color>ff161922</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style13">
       <LineStyle>
-        <color>ff072982</color>  	<!-- this is the color of your path -->   
+        <color>ff085fd3</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style14">
       <LineStyle>
-        <color>ff36568e</color>  	<!-- this is the color of your path -->   
+        <color>ff527db0</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style15">
       <LineStyle>
-        <color>ff319482</color>  	<!-- this is the color of your path -->   
+        <color>ff08aee9</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style16">
       <LineStyle>
-        <color>ff8e26a1</color>  	<!-- this is the color of your path -->   
+        <color>ff3d42eb</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style17">
       <LineStyle>
-        <color>ff5a57aa</color>  	<!-- this is the color of your path -->   
+        <color>fff82b29</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style18">
       <LineStyle>
-        <color>ff5858d0</color>  	<!-- this is the color of your path -->   
+        <color>ff346c57</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>	<Style id="line-style19">
       <LineStyle>
-        <color>ffc103e7</color>  	<!-- this is the color of your path -->   
+        <color>ff6d158e</color>  	<!-- this is the color of your path -->   
         <width>1</width>		<!-- this is the width of your path -->
       </LineStyle>
     </Style>		<!-- this is the camera view  -->	

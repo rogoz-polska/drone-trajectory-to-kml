@@ -8,35 +8,11 @@ utm_z=0
 x =[]
 y=[]
 z=[]
-x_wgs84 =[]
-y_wgs84=[]
-z_wgs84=[]
-
-x1_wgs84 =[]
-y1_wgs84=[]
-z1_wgs84=[]
-
 x2_wgs84 =[]
 y2_wgs84=[]
 z2_wgs84=[]
 wgs84 = []
 
-# f = open('drones/Drone 4/trajectory.json')
-# data = json.load(f)
-
-# for i in data['points']:
-#     x.append((i[1][0]+utm_x))
-#     y.append(i[1][1]+utm_y)
-#     z.append(i[1][2])
-
-# f.close()
-
-# for (a,b,c) in zip(x,y,z):
-#   a,b = utm.to_latlon(a, b, zone, northern=True)
-#   c=c+utm_z
-#   z_wgs84.append(c)
-#   x_wgs84.append(a)
-#   y_wgs84.append(b)
 for h in range(20):
   f = open(f'drones/drone_{h+1}/trajectory.json')
   data = json.load(f)
